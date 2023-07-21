@@ -1,0 +1,36 @@
+.Detail{
+    margin-left: 100px;
+}
+
+.Div{
+    display: flex;
+    flex-direction: row;
+}
+
+.DivText{
+    max-width: 1000px;
+    margin-left: 70px;
+}
+
+img{
+    height: 300px;
+}
+
+.Link{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.List{
+    list-style: none;
+    padding: 0;
+    margin-top: 40px;
+}
+
+.BtnBack{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 0;
+    cursor: pointer;
+}
